@@ -1,0 +1,14 @@
+.donate-widget a{
+  text-decoration:none;
+  font-size: 2em;
+  position: fixed;
+  top: 50%;
+  right: 0;
+  padding: 1em;
+  background: rgb(255, 140, 0);
+  border-radius: 0.5em 0 0 0.5em;
+  color: black;
+  font-family: 'Titillium Web', sans-serif;
+  font: black; 
+  z-index: 1000;
+}
